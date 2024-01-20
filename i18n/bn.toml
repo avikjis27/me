@@ -1,0 +1,41 @@
+[more]
+other = "আরও"
+
+[allTitle]
+other = "সব {{.Title }}"
+
+[recentTitle]
+other = "নতুন {{.Title }}"
+
+[readMore]
+other = "আরও পড়ুন"
+
+[whatsInThis]
+other = "এটাতে কি আছে {{ .Type }}"
+
+[related]
+other = "সম্পর্কিত"
+
+[yourName]
+other = "তোমার নাম"
+
+[emailAddress]
+other = "ইমেইল"
+
+[message]
+other = "বার্তা"
+
+[emailRequiredNote]
+other = "ইমেইল  প্রয়োজন"
+
+[send]
+other = "পাঠান"
+
+[taxonomyPageList]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+
+[pageTitle]
+other = "{{ .Name }} পাতা"
+
+[poem]
+other = "কবিতা"
