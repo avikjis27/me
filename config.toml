@@ -39,6 +39,10 @@ enableRobotsTXT = true
   post_content_classes = "avenir"
   show_reading_time = true
 
+[services]
+  [services.disqus]
+    shortname = 'avik'
+
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/avikjis27"
