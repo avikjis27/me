@@ -39,4 +39,4 @@ Refactoring is not just a routine task for me. Reducing the lines of code, makin
 The summary of all is in the tone of Martin Fowler-
 
 
-#### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.

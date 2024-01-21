@@ -2,9 +2,9 @@
 title: avik chakraborty
 date: 2024-01-20T17:17:22+05:30
 tags: []
-description: "a common man"
+description: "Consciously unconscious about who am i ..."
 cascade:
   featured_image: '/images/home.jpg'
 ---
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+So, whether you're a fellow tech enthusiast, a lover of words, or someone seeking a glimpse into the intersection of technology, creativity and philosophy, you've found your way to my digital abode. 
